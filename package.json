@@ -1,0 +1,19 @@
+{
+  "name": "illuminate-encrypterjs",
+  "version": "1.0.0",
+  "description": "Illuminate Encrypter for NodeJS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/necm1/illuminate-encrypterjs.git"
+  },
+  "keywords": ["illuminate", "encrypter", "encryption"],
+  "author": "Necmi Hasan <necmi.m.hasan@outlook.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/necm1/illuminate-encrypterjs/issues"
+  },
+  "homepage": "https://github.com/necm1/illuminate-encrypterjs#readme"
+}
