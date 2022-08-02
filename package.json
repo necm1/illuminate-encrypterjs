@@ -9,11 +9,18 @@
     "type": "git",
     "url": "git+https://github.com/necm1/illuminate-encrypterjs.git"
   },
-  "keywords": ["illuminate", "encrypter", "encryption"],
+  "keywords": [
+    "illuminate",
+    "encrypter",
+    "encryption"
+  ],
   "author": "Necmi Hasan <necmi.m.hasan@outlook.de>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/necm1/illuminate-encrypterjs/issues"
   },
-  "homepage": "https://github.com/necm1/illuminate-encrypterjs#readme"
+  "homepage": "https://github.com/necm1/illuminate-encrypterjs#readme",
+  "dependencies": {
+    "@types/node": "^18.6.3"
+  }
 }
